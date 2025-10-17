@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.hero {
+  height: 90vh;
+  background: url("Images/Cake\ Background\ Pic1.png") no-repeat center center/cover;
+  color: rgb(255, 255, 255);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.nav-link:hover{
+  background-color: rgb(236, 54, 115);
+  color: rgb(250, 247, 248);
